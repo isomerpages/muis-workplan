@@ -22,7 +22,6 @@ description: ""
   <li>Milk</li>
 <ul>
 	
-	<img src="/images/hero-banner.png">
 
 <table> 
 	<tr>
@@ -35,4 +34,7 @@ description: ""
 		<td>Woodlands</td> 
 		<td>dunno</td> 
 	</tr>
-	</table>	
+	</table>
+	
+	<a href="http://www.muis.gov.sg">Visit Muis website here</a>
+	
