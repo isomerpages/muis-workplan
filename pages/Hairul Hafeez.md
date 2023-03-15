@@ -3,7 +3,6 @@ title: Hairul Hafeez
 permalink: /HairulHafeez/
 description: ""
 ---
-
 ![](/images/hero-banner.png)<h1> This is a heading </h1>
 <h6> This is a heading </h6>
 <h3> This is a heading </h3>
@@ -39,4 +38,4 @@ description: ""
 	
 <a href="http://www.muis.gov.sg/">Visit Muis Website here</a>
 	
-	<br>
+	
