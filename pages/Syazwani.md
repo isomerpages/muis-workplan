@@ -18,4 +18,29 @@ description: ""
   <li>Milk</li>
 </ul>
 
-<img src="/images/hero-banner.png" style="width:40%;">
+<img src="/images/hero-banner.png" style="width:100%;">
+
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Address</th>
+		<th>Contact</th>
+	</tr>
+	<tr>
+		<td>Syaz</td>
+		<td>Woodlands</td>
+		<td>91064346</td>
+	</tr>
+	<tr>
+		<td>Hafeez</td>
+		<td>Punggol</td>
+		<td>********</td>
+	</tr>
+	<tr>
+		<td>Zulkarnain</td>
+		<td>Woodlands</td>
+		<td>********</td>
+	</tr>
+</table>
+
+<a href="https://www.muis.gov.sg/">Muis Website</a>
