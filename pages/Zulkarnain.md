@@ -19,3 +19,18 @@ description: ""
 </ul\>
 
 <img src="/images/hero-banner.png" style="width:40%;"/>
+
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Address</th>
+		<th>Contact</th>
+	</tr>
+	<tr>
+		<td>Zul</td>
+		<tr>
+		<td>Syaz</td>
+	</tr>
+		<td>Hafeez</td>
+	</tr>
+</table>
