@@ -20,8 +20,8 @@ sections:
           description: What to expect
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: MUIS WORKPLAN SEMINAR 2023
+      subtitle: ABOUT THE EVENT
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
