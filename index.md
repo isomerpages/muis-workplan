@@ -7,17 +7,17 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/isomer background.JPG
+      background: /images/isomer background_1-2.JPG
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: ABOUT MUIS WORKPLAN 2023
+          description: Find out more
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: RSVP YOUR ATTENDANCE
+          description: Register now
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: EVENT PROGRAMME
+          description: What to expect
           url: /privacy/
   - infobar:
       title: Infobar title
