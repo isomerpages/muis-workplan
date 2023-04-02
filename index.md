@@ -7,10 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Muis Workplan Seminar 2023
-      subtitle: Strengthening the Community of Tomorrow, Today
       background: /images/isomer background.JPG
-      button: Learn More Here
       url: /contact-us/
       key_highlights:
         - title: Highlight A
