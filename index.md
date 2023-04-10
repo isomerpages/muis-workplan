@@ -19,7 +19,7 @@ sections:
           description: ""
           url: ""
       title: Muis Workplan Seminar 2023
-      subtitle: STRENGTHENING THE COMMUNITY OF TOMORROW, TODAY
+      subtitle: " "
       button: RSVP your attendance
   - infobar:
       title: MUIS WORKPLAN SEMINAR 2023
