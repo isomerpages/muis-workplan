@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /contact-us/
+      url: /registration/
       key_highlights:
         - title: ""
           description: ""
