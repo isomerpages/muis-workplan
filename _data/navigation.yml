@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About WPS
+    url: /about-wps/
   - title: MUIS REPORT CARD 2022
-    url: /example-page/
-  - title: ABOUT SMI
+    url: /muis-reportcard-2022/
+  - title: EVENT DETAILS
     collection: example-folder
