@@ -4,25 +4,27 @@ title: Muis Workplan Seminar 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      background: /images/isomer background_1-2.JPG
       url: /contact-us/
       key_highlights:
-        - title: ABOUT MUIS WORKPLAN 2023
-          description: Find out more
+        - title: ""
+          description: ""
           url: https://google.com
         - title: RSVP YOUR ATTENDANCE
-          description: Register now
+          description: Register now!
           url: https://gmail.com
-        - title: EVENT PROGRAMME
-          description: What to expect
+        - title: ""
+          description: ""
           url: /privacy/
+      title: Muis Workplan Seminar 2023
+      subtitle: STRENGTHENING THE COMMUNITY OF TOMORROW, TODAY
   - infobar:
       title: MUIS WORKPLAN SEMINAR 2023
       subtitle: ABOUT THE EVENT
-      description: About a sentence worth of description here
-      button: Button text
+      description: "The Muis Workplan Seminar this year focuses on key issues
+        impacting our community’s socio-religious life. "
+      button: READ MORE
       url: /faq/
 ---
