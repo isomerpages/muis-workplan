@@ -18,7 +18,6 @@ sections:
         - title: ""
           description: ""
           url: ""
-      title: Muis Workplan Seminar 2023
       subtitle: " "
       button: RSVP your attendance
   - infobar:
