@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: ""
           description: ""
-          url: https://google.com
+          url: ""
         - title: ""
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: ""
           description: ""
-          url: /privacy/
+          url: ""
       title: Muis Workplan Seminar 2023
       subtitle: STRENGTHENING THE COMMUNITY OF TOMORROW, TODAY
       button: RSVP your attendance
