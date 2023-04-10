@@ -12,14 +12,15 @@ sections:
         - title: ""
           description: ""
           url: https://google.com
-        - title: RSVP YOUR ATTENDANCE
-          description: Register now!
+        - title: ""
+          description: ""
           url: https://gmail.com
         - title: ""
           description: ""
           url: /privacy/
       title: Muis Workplan Seminar 2023
       subtitle: STRENGTHENING THE COMMUNITY OF TOMORROW, TODAY
+      button: RSVP your attendance
   - infobar:
       title: MUIS WORKPLAN SEMINAR 2023
       subtitle: ABOUT THE EVENT
