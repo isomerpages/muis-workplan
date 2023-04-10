@@ -27,5 +27,5 @@ sections:
       description: "The Muis Workplan Seminar this year focuses on key issues
         impacting our community’s socio-religious life. "
       button: READ MORE
-      url: /faq/
+      url: /about-wps/
 ---
