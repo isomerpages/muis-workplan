@@ -11,7 +11,10 @@ sections:
         - title: RSVP Your attendance
           description: Registration closes on 8 May 2023
           url: /registration/
-      background: /images/design 2.jpg
+      title: Muis Workplan Seminar 2023
+      subtitle: Strengthening the Community of Tomorrow, Today
+      button: RSVP your attendance
+      url: /registration/
   - infobar:
       title: MUIS WORKPLAN SEMINAR 2023
       subtitle: ABOUT THE EVENT
