@@ -2,13 +2,13 @@ title: Muis Workplan Seminar 2023
 url: https://www.workplanseminar.muis.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#266284"
+  primary-color: "#005e5a"
   secondary-color: "#ec9120"
   media-colors:
     - title: media-color-one
       color: "#eaeaea"
     - title: media-color-two
-      color: "#4a90e2"
+      color: "#005e5a"
     - title: media-color-three
       color: "#d1d1d1"
     - title: media-color-four
