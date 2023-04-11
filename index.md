@@ -15,9 +15,9 @@ sections:
         - title: ""
           description: ""
           url: ""
-        - title: ""
-          description: ""
-          url: ""
+        - title: RSVP Your attendance
+          description: Registration closes on 8 May 2023
+          url: /registration/
       button: RSVP your attendance
       background: /images/design 2.jpg
       title: Muis Workplan                          Seminar 2023
