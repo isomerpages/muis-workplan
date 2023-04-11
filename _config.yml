@@ -2,19 +2,19 @@ title: Muis Workplan Seminar 2023
 url: https://www.workplanseminar.muis.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#105757"
+  primary-color: "#266284"
   secondary-color: "#ec9120"
   media-colors:
     - title: media-color-one
-      color: "#50e3c2"
+      color: "#eaeaea"
     - title: media-color-two
-      color: "#197777"
+      color: "#4a90e2"
     - title: media-color-three
       color: "#d1d1d1"
     - title: media-color-four
       color: "#6e7171"
     - title: media-color-five
-      color: "#00838f"
+      color: "#266284"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
