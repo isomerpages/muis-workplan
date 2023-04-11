@@ -24,21 +24,27 @@ sections:
       button: READ MORE
       url: /about-wps/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Progressive Religious Guidance
+      subtitle: Discussion topic 1
+      description: (Supplementary description)
+      button: read more
+      alt: Fatwa Committee 2022
+      image: /images/1_religious guidance.jpg
+      url: /registration/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Asatizah Fraternity
+      subtitle: Discussion topic 2
+      description: (Supplementary description)
+      button: Read More
+      alt: PCICS Graduates 2023
+      image: /images/2_asatizah.jpg
+      url: /registration/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Religious Institutions
+      subtitle: Discussion topic 3
+      description: (Supplementary description)
+      button: Read more
+      alt: Masjid Khalid (2023)
+      url: /registration/
+      image: /images/3_mosque.jpg
 ---
