@@ -17,12 +17,12 @@ sections:
       url: /registration/
       background: /images/option 4_isomer_small.jpg
   - infobar:
-      title: MUIS WORKPLAN SEMINAR 2023
+      title: MUIS COMMUNITY FORWARD SEMINAR 2023
       subtitle: ABOUT THE EVENT
-      description: "The Muis Workplan Seminar this year focuses on key issues
+      description: "The Muis Community Forward Seminar this year focuses on key issues
         impacting our community’s socio-religious life. "
       button: READ MORE
-      url: /about-wps/
+      url: /about-cfs/
   - infopic:
       title: Progressive Religious Guidance
       subtitle: Discussion topic 1
