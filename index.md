@@ -15,7 +15,7 @@ sections:
       subtitle: Strengthening the Community of Tomorrow, Today
       button: RSVP your attendance
       url: /registration/
-      background: /images/optionn 3 green.jpg
+      background: /images/option 4_isomer_small.jpg
   - infobar:
       title: MUIS WORKPLAN SEMINAR 2023
       subtitle: ABOUT THE EVENT
