@@ -11,7 +11,7 @@ sections:
         - title: RSVP Your attendance
           description: Registration closes on 8 May 2023
           url: /registration/
-      title: Muis Workplan Seminar 2023
+      title: Muis Community Forward Seminar 2023
       subtitle: Strengthening the Community of Tomorrow, Today
       button: RSVP your attendance
       url: /registration/
@@ -32,7 +32,7 @@ sections:
       image: /images/1_religious guidance.jpg
       url: /registration/
   - infopic:
-      title: Asatizah Fraternity
+      title: Forward-Looking Asatizah Sector
       subtitle: Discussion topic 2
       description: (Supplementary description)
       button: Read More
@@ -40,7 +40,7 @@ sections:
       image: /images/2_asatizah.jpg
       url: /registration/
   - infopic:
-      title: Religious Institutions
+      title: Dynamic Religious Institutions
       subtitle: Discussion topic 3
       description: (Supplementary description)
       button: Read more
