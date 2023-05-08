@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: RSVP Your attendance
-          description: Registration closes on 8 May 2023
+          description: Registration closes 15 May 2023
           url: /registration/
       title: Muis Community Forward Seminar 2023
       subtitle: Strengthening the Community of Tomorrow, Today
