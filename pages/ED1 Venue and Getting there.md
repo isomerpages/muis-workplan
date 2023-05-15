@@ -10,7 +10,7 @@ This year's Muis Community Forward Seminar will be held at
 Singapore 479994<br>
 Level 2 Grand Ballroom
 
-(Photo of Venue)
+![hometeamns bedok](/images/hometeamns%20bedok.JPG)
 
 **Getting Here**<br>
 * **Via MRT:** The nearest MRT station is Bedok North (DT29) MRT station. Exit via A and take bus services 23 or 518 and you will arrive at the clubhouse in 1 stop.
