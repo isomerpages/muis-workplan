@@ -2,4 +2,5 @@ collections:
   event-details:
     output: true
     order:
+      - Seating Layout.md
       - Getting Here.md
