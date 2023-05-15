@@ -1,5 +1,5 @@
-title: Muis Workplan Seminar 2023
-url: https://www.workplanseminar.muis.gov.sg
+title: Muis Community Forward Seminar 2023
+url: https://www.communityforwardseminar.muis.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#005e5a"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
