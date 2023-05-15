@@ -13,9 +13,8 @@ sections:
           url: /registration/
       title: Muis Community Forward Seminar 2023
       subtitle: Strengthening the Community of Tomorrow, Today
-      button: RSVP your attendance
       url: /registration/
-      background: /images/option 4_isomer_small.jpg
+      background: /images/cfs banner.jpg
   - infobar:
       title: MUIS COMMUNITY FORWARD SEMINAR 2023
       subtitle: ABOUT THE EVENT
