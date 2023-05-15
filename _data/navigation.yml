@@ -6,6 +6,4 @@ links:
   - title: MUIS Progress 2022
     url: /muis-progress-2022/
   - title: EVENT DETAILS
-    collection: example-folder
-  - title: Registration
-    url: /registration/
+    collection: event-details
