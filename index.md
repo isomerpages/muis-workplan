@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Muis Workplan Seminar 2023
+title: Muis Community Forward Seminar 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -18,8 +18,8 @@ sections:
   - infobar:
       title: MUIS COMMUNITY FORWARD SEMINAR 2023
       subtitle: ABOUT THE EVENT
-      description: "The Muis Community Forward Seminar this year focuses on key issues
-        impacting our community’s socio-religious life. "
+      description: The Muis Community Forward Seminar this year focuses on key issues
+        impacting our community’s socio-religious life.
       button: READ MORE
       url: /about-cfs/
   - infopic:
