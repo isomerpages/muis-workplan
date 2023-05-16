@@ -23,6 +23,12 @@ sections:
       button: READ MORE
       url: /about-cfs/
   - infopic:
+      title: MUIS PROGRESS 2022
+      description: The milestones and achievements of Muis in 2022
+      button: Read more
+      url: /muis-progress-2022
+      alt: Image alt text
+  - infopic:
       title: Progressive Religious Guidance
       subtitle: Discussion topic 1
       description: (Supplementary description)
