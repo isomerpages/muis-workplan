@@ -3,8 +3,7 @@ title: Getting Here
 permalink: /cfs2023venue/
 description: Venue of Muis CFS 2023 and Getting There
 ---
-This year's Muis Community Forward Seminar will be held at
-
+This year's Muis Community Forward Seminar will be held at:
 **HomeTeamNS@Bedok Reservoir**<br>
 900 Bedok North Road<br>
 Singapore 479994<br>
