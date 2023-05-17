@@ -44,12 +44,4 @@ sections:
       alt: PCICS Graduates 2023
       image: /images/2_asatizah.jpg
       url: /registration/
-  - infopic:
-      title: Dynamic Religious Institutions
-      subtitle: Discussion topic 3
-      description: (Supplementary description)
-      button: Read more
-      alt: Masjid Khalid (2023)
-      url: /registration/
-      image: /images/3_mosque.jpg
 ---
