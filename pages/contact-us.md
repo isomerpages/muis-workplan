@@ -8,5 +8,5 @@ contacts:
       - phone: ""
       - email: nur_siti_hikmah@muis.gov.sg
       - other: ""
-    title: "For Enquiries & Feedback "
+    title: For enquiries on CFS
 ---
