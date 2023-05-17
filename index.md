@@ -7,10 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: RSVP Your attendance
-          description: Registration closes 15 May 2023
-          url: /registration/
       title: Muis Community Forward Seminar 2023
       subtitle: Strengthening the Community of Tomorrow, Today
       url: /registration/
@@ -18,8 +14,9 @@ sections:
   - infobar:
       title: MUIS COMMUNITY FORWARD SEMINAR 2023
       subtitle: ABOUT THE EVENT
-      description: The Muis Community Forward Seminar this year focuses on key issues
-        impacting our community’s socio-religious life.
+      description: CFS is an inaugural platform for community leaders and partners to
+        discuss key issues impacting the socio-religious sector and the
+        community.
       button: READ MORE
       url: /about-cfs/
 ---
