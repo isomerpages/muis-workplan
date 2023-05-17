@@ -17,19 +17,12 @@ locations:
         description: ""
     maps_link: ""
     title: Singapore Islamic Hub
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: " "
-    title: a
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6359 1199
+      - email: nur_siti_hikmah@muis.gov.sg
+      - other: ""
+    title: For Enquiries & Feedback
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
