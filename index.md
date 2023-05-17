@@ -22,12 +22,4 @@ sections:
         impacting our community’s socio-religious life.
       button: READ MORE
       url: /about-cfs/
-  - infopic:
-      title: Forward-Looking Asatizah Sector
-      subtitle: Discussion topic 2
-      description: (Supplementary description)
-      button: Read More
-      alt: PCICS Graduates 2023
-      image: /images/2_asatizah.jpg
-      url: /registration/
 ---
