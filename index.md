@@ -29,14 +29,6 @@ sections:
       url: /muis-progress-2022
       alt: Image alt text
   - infopic:
-      title: Progressive Religious Guidance
-      subtitle: Discussion topic 1
-      description: (Supplementary description)
-      button: read more
-      alt: Fatwa Committee 2022
-      image: /images/1_religious guidance.jpg
-      url: /registration/
-  - infopic:
       title: Forward-Looking Asatizah Sector
       subtitle: Discussion topic 2
       description: (Supplementary description)
