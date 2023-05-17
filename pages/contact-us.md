@@ -19,7 +19,7 @@ locations:
     title: Singapore Islamic Hub
 contacts:
   - content:
-      - phone: +65 6359 1199
+      - phone: ""
       - email: nur_siti_hikmah@muis.gov.sg
       - other: ""
     title: For Enquiries & Feedback
