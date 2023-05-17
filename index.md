@@ -8,9 +8,13 @@ notification: ""
 sections:
   - hero:
       title: Muis Community Forward Seminar 2023
-      subtitle: Strengthening the Community of Tomorrow, Today
+      subtitle: 24 May 2023 | 12.30pm to 6.00pm
       url: /registration/
       background: /images/cfs banner.jpg
+      key_highlights:
+        - title: STRENGTHENING THE COMMUNITY OF TOMORROW, TODAY
+          description: ""
+          url: /theme
   - infobar:
       title: CFS 2023
       subtitle: ABOUT THE EVENT
