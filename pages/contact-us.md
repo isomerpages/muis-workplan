@@ -10,10 +10,10 @@ locations:
       - Singapore 579702
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        time: 8.30am - 5.30pm
+        description: (Closed on Fridays from 12:30 pm – 2:30 pm)
       - days: Sat
-        time: 8.30am - 12.00pm
+        time: Closed
         description: ""
     maps_link: ""
     title: Singapore Islamic Hub
@@ -23,9 +23,4 @@ contacts:
       - email: nur_siti_hikmah@muis.gov.sg
       - other: ""
     title: For Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
