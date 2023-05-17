@@ -1,15 +1,9 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/islamic religious council of singapore (muis) green
+  logo_transparent background.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About CFS
+    url: /about-cfs/
+  - title: EVENT DETAILS
+    collection: event-details
+  - title: CONTACT US
+    url: /contact-us
