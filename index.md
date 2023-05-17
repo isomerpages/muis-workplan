@@ -12,7 +12,7 @@ sections:
       url: /registration/
       background: /images/cfs banner.jpg
   - infobar:
-      title: MUIS COMMUNITY FORWARD SEMINAR 2023
+      title: CFS 2023
       subtitle: ABOUT THE EVENT
       description: CFS is an inaugural platform for community leaders and partners to
         discuss key issues impacting the socio-religious sector and the
