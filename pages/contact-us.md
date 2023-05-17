@@ -15,6 +15,9 @@ locations:
       - days: Sat
         time: Closed
         description: ""
+      - days: Sun
+        time: Closed
+        description: ""
     maps_link: ""
     title: Singapore Islamic Hub
 contacts:
