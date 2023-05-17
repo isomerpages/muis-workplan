@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Workplan 2023 Committee
+agency_name: CFS 2023 Committee
 locations:
   - address:
       - 273 Braddell Road
