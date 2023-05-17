@@ -2,6 +2,6 @@ collections:
   event-details:
     output: true
     order:
-      - Programme.md
       - Strengthening the Community of Tomorrow, Today.md
+      - Programme.md
       - Getting Here.md
