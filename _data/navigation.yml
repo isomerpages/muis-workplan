@@ -1,0 +1,9 @@
+logo: /images/islamic religious council of singapore (muis) green
+  logo_transparent background.png
+links:
+  - title: About CFS
+    url: /about-cfs/
+  - title: EVENT DETAILS
+    collection: event-details
+  - title: CONTACT US
+    url: /contact-us

@@ -1,0 +1,7 @@
+collections:
+  event-details:
+    output: true
+    order:
+      - Programme.md
+      - Discussion Handout.md
+      - Getting Here.md
